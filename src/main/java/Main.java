@@ -25,7 +25,8 @@ public class Main {
 
     
     int sumOfNumbers(int n) {
-        return 0;
+
+        return sumOfNumbers(n);
     }
     
     // for Extra Credit
